@@ -14,7 +14,7 @@ A professional Postman test suite built against the
 
 ## Test results
 
-![Test Results](test-results.png)
+<img width="1205" height="672" alt="collection run" src="https://github.com/user-attachments/assets/52904a9e-fc94-4e2f-93e4-252d0bc3f0a1" />
 
 ## How to run
 
