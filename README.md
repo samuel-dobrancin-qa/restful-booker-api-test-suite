@@ -1,5 +1,7 @@
 # Restful Booker — API Test Suite
 
+![API Tests](https://github.com/samuel-dobrancin-qa/Restful-Booker-API-Test-Suite/actions/workflows/api-tests.yml/badge.svg)
+
 A professional Postman test suite built against the 
 [Restful Booker API](https://restful-booker.herokuapp.com/apidoc).
 
